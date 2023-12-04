@@ -42,7 +42,6 @@ make
 
 <table>
   <tr>
-  <td align="center"><a href="https://github.com/girishgr8/"><img src="https://avatars.githubusercontent.com/girishgr8" width="100px;" alt=""/><br /><sub><b>Girish Thatte</b></sub></a></td>
   <td align="center"><a href="https://github.com/raghav9-97/"><img src="https://avatars.githubusercontent.com/raghav9-97" width="100px;" alt=""/><br /><sub><b>Raghvendra Gupta</b></sub></a></td>
   <td align="center"><a href="https://github.com/Venky-8/"><img src="https://avatars.githubusercontent.com/Venky-8" width="100px;" alt=""/><br /><sub><b>Venkatesh Mangnale</b></sub></a></td>
   <td align="center"><a href="https://github.com/deepak1h/"><img src="https://avatars.githubusercontent.com/deepak1h" width="100px;" alt=""/><br /><sub><b>Deepak Pandey</b></sub></a></td>
